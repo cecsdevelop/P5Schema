@@ -1,0 +1,23 @@
+.row{
+    display: flex;
+
+}
+.col-6{
+    max-width: 50%;
+    min-width: 50%;
+    width: 50%;
+}
+
+.custom-fields{
+    display: grid;
+    padding: 0 10px 0 0 ;
+}
+.custom-fields-input input,
+.custom-fields-input textarea{
+    min-width: 100%;
+}
+
+._pages_post,
+._categories{
+    display: none;
+}

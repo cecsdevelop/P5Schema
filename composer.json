@@ -1,0 +1,17 @@
+{
+    "name": "camilocontreras/p5schema",
+    "description": "Schema manager",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Camilo Contreras",
+            "email": "contreras.camilo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
